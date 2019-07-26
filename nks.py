@@ -22,7 +22,7 @@ def graph(
         # print(''.join(str(neighbors)), base_index, rule_result, '\n', new_sequence)
     print(''.join(new_sequence).replace('0', ' ').replace('1', '█'))
     sleep(0.025)
-    get_next([int(x) for x in new_sequence])
+    graph([int(x) for x in new_sequence])
 
 base_sequence = (
     (0,0,0),
