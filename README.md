@@ -2,8 +2,8 @@
 Experiments with NKS and games
 
 ## TTY Graph
-  $ python3 nks.py
  ```
+  $ python3 nks.py
  ** * *     **     *** *  **** ** **       ** * * * * * * * *** *     
  *** * *    ***    * ** * *  ********      *** * * * * * * ** ** *    
  * ** * *   * **    **** * * *      **     * ** * * * * * ******* *   
